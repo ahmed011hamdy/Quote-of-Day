@@ -1,0 +1,19 @@
+article h1 {
+    font-weight: 700;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+article p {
+    font-weight: 400;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Quote {
+    width: 60%;
+    margin: auto;
+    font-weight: 400;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
